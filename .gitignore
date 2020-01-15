@@ -1,0 +1,11 @@
+# This file contains patterns for files that you
+# should NOT check in to the git repository.
+*.class
+bin
+.DS[Ss]tore
+# IDE files
+.iml
+.classpath
+classpath
+.settings
+.project
